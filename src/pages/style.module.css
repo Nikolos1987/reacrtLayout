@@ -1,0 +1,8 @@
+.main{
+max-width: 1440px;
+min-height: 820px;
+margin: auto;
+background-image:url('BG Shape.png');
+background-size: cover;
+}
+
